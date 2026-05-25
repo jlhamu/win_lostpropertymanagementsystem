@@ -17,7 +17,7 @@ $success = '';
 $formData = ['full_name' => '', 'email' => '', 'role' => 'student'];
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    // Collect and trim inputs
+    // Collect and trims inputs
     $fullName        = trim($_POST['full_name']        ?? '');
     $email           = trim($_POST['email']            ?? '');
     $password        = $_POST['password']              ?? '';
