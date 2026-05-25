@@ -98,7 +98,7 @@ lost-found-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/win-lostproperty.git
+   git clone https://github.com/your-username/group-project.git
    ```
 
 2. **Copy to XAMPP htdocs**

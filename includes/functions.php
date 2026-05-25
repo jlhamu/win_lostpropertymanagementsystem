@@ -1,6 +1,6 @@
 <?php
-define('BASE_URL', 'http://localhost/win-lostproperty/');
-define('BASE_PATH', 'C:/xampp/htdocs/win-lostproperty/');
+define('BASE_URL', 'http://localhost/group-project/');
+define('BASE_PATH', 'C:/xampp/htdocs/group-project/');
 
 
 /**
