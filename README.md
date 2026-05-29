@@ -233,3 +233,5 @@ https://myaccount.google.com/apppasswords
 ## Screenshots
 
 *(Add screenshots of Home, Browse, Admin Dashboard, etc. here)*
+Tested and verified local setup by tseyr
+Tested and verified local setup by Tashi
